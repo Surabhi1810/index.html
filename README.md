@@ -35,23 +35,23 @@
 
         <h2>Portfolio Topic</h2>
         <dl>
-            <dt>Course Name</dt>
+            <dt>Design and analysis of algorithm</dt>
             <dd>Algorithmic Problem Solving</dd>
 
             <dt>Course Code</dt>
             <dd>Course Code Placeholder</dd>
 
             <dt>Name</dt>
-            <dd>Your Name</dd>
+            <dd>Surabhi</dd>
 
             <dt>SRN</dt>
-            <dd>Your SRN</dd>
+            <dd>01fe23bci109</dd>
 
             <dt>Course Instructor</dt>
             <dd>Instructor Name Placeholder</dd>
 
             <dt>University</dt>
-            <dd>Your University Name</dd>
+            <dd>KLE Technological University, Hubli</dd>
 
             <dt>Portfolio Topic/Domain</dt>
             <dd>Google</dd>
